@@ -1,7 +1,3 @@
-# Robot Simulator Project
-
-This project is a JavaScript application that simulates controlling a robot on a 5x5 grid. Below is the structure of the project and a brief description of each file.
-
 ## Project Structure
 
 - **index.html**: The main HTML file that sets up the structure of the webpage and includes the necessary script and style references.
